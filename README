@@ -1,0 +1,10 @@
+PIMP MY MAC
+
+Install Anaconda using GUI, Anaconda includes many libraries as numpy, matplotlib and others.
+
+Check PATH to include the new programs. Now they may be able to start from terminal.
+
+Install PIP
+$: sudo easy_install pip
+
+Install GIT using GUI
